@@ -1,0 +1,17 @@
+{
+    "name": "shopypicza-theme",
+    "version": "1.0.0",
+    "description": "Custom Shopify theme for Shopypicza",
+    "scripts": {
+        "dev": "shopify theme dev",
+        "build": "shopify theme build",
+        "check": "shopify theme check",
+        "lint": "shopify theme check"
+    },
+    "author": "Piczadev",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "@shopify/cli": "^3.0.0",
+        "@shopify/theme": "^3.0.0"
+    }
+}
